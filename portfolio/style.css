@@ -1,0 +1,15 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Poppins', sans-serif; background: #f0f4f8; color: #2d3748; padding: 20px; }
+.container { max-width: 800px; margin: 0 auto; }
+.header { text-align: center; margin-bottom: 30px; padding: 40px 0; }
+h1 { color: #2b6cb0; font-size: 2.5rem; }
+.tagline { font-weight: 600; color: #4a5568; }
+.card { background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.05); margin-bottom: 20px; }
+h2 { border-bottom: 2px solid #ebf8ff; padding-bottom: 10px; margin-bottom: 15px; color: #2c5282; }
+ul { padding-left: 20px; }
+li { margin-bottom: 10px; }
+.contact-form input, .contact-form textarea { width: 100%; padding: 12px; margin-bottom: 15px; border: 1px solid #e2e8f0; border-radius: 8px; }
+textarea { height: 120px; }
+.btn-primary { background: #3182ce; color: white; border: none; padding: 15px 30px; border-radius: 8px; cursor: pointer; font-weight: bold; width: 100%; transition: 0.3s; }
+.btn-primary:hover { background: #2b6cb0; }
+footer { text-align: center; font-size: 0.8rem; color: #a0aec0; margin-top: 40px; }
